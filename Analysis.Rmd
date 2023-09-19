@@ -1,0 +1,10 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(magrittr)
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(approach1)
+```
